@@ -1,0 +1,9 @@
+int s;
+
+Hubo una declaracion 
+
+
+Top -> ; 
+-- ; 
+-- s 
+-- INT 
